@@ -1,0 +1,6 @@
+•	Figma para design das telas
+
+O Figma permite a construção de layout de interfaces e protótipos para o desenvolvimento de produtos diversos sendo mais utilizado para o design de softwares como apps, websites etc. Criado por Dylan Field e Evan Wallace o Figma é uma ferramenta web gratuita utilizada direto no navegador que permite a criação de produtos de forma colaborativa.
+
+Site oficial: https://www.figma.com/
+Fonte: https://www.alura.com.br/artigos/figma#:~:text=O%20Figma%20%C3%A9%20uma%20plataforma,produto%20para%20as%20mais%20diversas
